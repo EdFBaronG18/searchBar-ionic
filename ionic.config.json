@@ -1,6 +1,8 @@
 {
   "name": "searchBar",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "f13443e3"
 }
